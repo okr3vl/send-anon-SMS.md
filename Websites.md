@@ -4,4 +4,4 @@
 
 SendAnonymousSMS is one of the largest and most trusted websites to send anonymous text message from computer for free. The site is very easy to use and delivers more than 100,000 free anonymous SMS/text messages every day. It has an easy-to-navigate interface and delivers to almost anywhere in the world. All you have to do is select the country of your intended recipient, enter the recipient number and text message, pass a captcha test, then you’re ready to go.
 
-[![MasterHead](https://2s9e3bif52.execute-api.eu-central-1.amazonaws.com/production/screenshot?url=http%3A%2F%2Fwww.sendanonymoussms.com%2F)](http://www.sendanonymoussms.com/)
+<img src="https://techviral.net/wp-content/uploads/2015/06/Sendanonymoussms-696x356.jpg">
